@@ -68,6 +68,11 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
+header:
+  video:
+    id: XsxDH4HcOWA
+    provider: youtube
+
 # Social Sharing
 twitter:
   username               : ChoompolB
