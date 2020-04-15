@@ -71,11 +71,6 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
-header:
-  video:
-    id: XsxDH4HcOWA
-    provider: youtube
-
 # Social Sharing
 twitter:
   username               : ChoompolB
@@ -104,7 +99,7 @@ analytics:
 # Site Author
 author:
   name             : "ชื่อ ผู้เขียน "
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/choompol-photo2.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "ฉันเป็นใคร "
   location         : "ฉันอยู่ที่ไหน "
   email            : choompol@drnum.net
